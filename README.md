@@ -7,18 +7,18 @@
 * [Screenshot](#screenshot)
 
 ## General info
-Expense Tracker is an Android application designed to help users monitor their expenses efficiently. It allows users to track their spending, categorize expenses, and calculate their remaining balance. The app is built using Jetpack Compose and follows the MVVM (Model-View-ViewModel) architecture to ensure scalability and maintainability.
+My Contacts is an Android application built using Jetpack Compose that allows users to manage and store their contacts efficiently. It utilizes Room Database for local storage and follows the MVVM architecture to ensure scalability and maintainability.
 
 ## App Functionality
-* Expense Tracking: Add, edit, and delete expenses with ease.
+* Add, update, and delete contacts.
 
-* Category Management: Categorize expenses for better organization.
+* View saved contacts in a LazyColumn for efficient scrolling.
 
-* Balance Calculation: Automatically calculates remaining balance based on income and expenses.
+* Uses Flows and LiveData for real-time data updates.
 
-* Data Persistence: Uses Room Database to store expense data locally.
+* Smooth UI built with Jetpack Compose.
 
-* Lazy Column: Used for efficiently displaying a large list of expenses.
+* Efficient background processing with Coroutines.
 
 ## Technologies
 Project is created with:
