@@ -1,4 +1,4 @@
-# MyContacts
+# My-Contacts
 ## Table of contents
 * [General info](#general-info)
 * [App Functionality](#app-functionality)
